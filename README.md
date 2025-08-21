@@ -138,3 +138,9 @@
 
 "ИИ-ассистент нутрициолог" – это современное решение для тех, кто хочет улучшить свое питание и достичь своих целей в области здоровья и фитнеса. Благодаря автоматизации и индивидуальному подходу, проект делает процесс составления меню простым и эффективным.  
 
+![Иллюстрация к проекту](https://github.com/A1936/AI_Nutritionist/blob/main/frame2.png?raw=true)
+![Иллюстрация к проекту](https://github.com/A1936/AI_Nutritionist/blob/main/frame3.png?raw=true)
+![Иллюстрация к проекту](https://github.com/A1936/AI_Nutritionist/blob/main/frame4.png?raw=true)
+![Иллюстрация к проекту](https://github.com/A1936/AI_Nutritionist/blob/main/frame5.png?raw=true)
+
+
